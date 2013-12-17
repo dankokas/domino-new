@@ -1,4 +1,4 @@
-﻿Build started 17.12.2013 18:47:25.
+﻿Build started 17.12.2013 19:41:34.
      1>Project "C:\danil\NIIT\internature\prj\1st_lesson\1st_lesson\1st_lesson.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Touching "Debug\1st_lesson.unsuccessfulbuild".
@@ -8,12 +8,11 @@
          All outputs are up-to-date.
          c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\1st_lesson.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"c:\Program Files\Microsoft Visual Studio 10.0\ReportViewer\Microsoft.ReportViewer.Common.dll" /FU"c:\Program Files\Microsoft Visual Studio 10.0\ReportViewer\Microsoft.ReportViewer.WinForms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.dll" /FU"c:\Program Files\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Services.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt 1st_lesson.cpp domino.cpp /clr:nostdlib 
          1st_lesson.cpp
-     1>c:\danil\niit\internature\prj\1st_lesson\1st_lesson\domino.h(12): error C2061: syntax error : identifier 'Form1'
+     1>c:\danil\niit\internature\prj\1st_lesson\1st_lesson\domino.h(14): error C2061: syntax error : identifier 'Form1'
          domino.cpp
-     1>c:\danil\niit\internature\prj\1st_lesson\1st_lesson\domino.h(12): error C2061: syntax error : identifier 'Form1'
          Generating Code...
      1>Done Building Project "C:\danil\NIIT\internature\prj\1st_lesson\1st_lesson\1st_lesson.vcxproj" (build target(s)) -- FAILED.
 
 Build FAILED.
 
-Time Elapsed 00:00:02.67
+Time Elapsed 00:00:02.95

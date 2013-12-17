@@ -1,7 +1,9 @@
 #pragma once
-
 #include "bone.h"
 #include "Form1.h"
+namespace My1st_lesson {
+
+
 
 ref class domino
 {
@@ -15,3 +17,4 @@ private:						//'Form1' : is not a class or namespace name
 	int count_hand;
 };
 
+}

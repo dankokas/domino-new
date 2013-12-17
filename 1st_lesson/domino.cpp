@@ -1,6 +1,6 @@
 #include "StdAfx.h"
 #include "domino.h"
-
+using namespace My1st_lesson;
 
 domino::domino(void)
 {	
