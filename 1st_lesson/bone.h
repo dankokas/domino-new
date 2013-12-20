@@ -1,5 +1,7 @@
 #pragma once
+
 #include "stdio.h"
+
 #define PIC "c:\danil\NIIT\internature\prj\1st_lesson\1st_lesson\pics"
 #define VAL "c:\danil\NIIT\internature\prj\1st_lesson\1st_lesson\values"
 
@@ -8,6 +10,7 @@ enum e_owner {MARKET, TABLE, HAND};
 ref class bone
 {
 public:
+	bone();
 	bone(int,int);
 	~bone(void);
 	int get_owner();
@@ -20,6 +23,6 @@ private:
 	int right, left;
 	int line;
 	char* pic;
-	//вместо нее функ get_string_value
+	static int count = 0;
 };
 
